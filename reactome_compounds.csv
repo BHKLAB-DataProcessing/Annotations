@@ -1,0 +1,160 @@
+Drug_Reactome_ID,Drug_Name,Drug_Stable_ID,Drug_Reference_Name,Drug_Reference_ID,PharmacoDB_ID
+9610988,acebutolol [extracellular region],R-ALL-9610988,acebutolol [IUPHAR:7107],7107,PDBC47819
+9603374,acenocoumarol [cytosol],R-ALL-9603374,acenocoumarol [IUPHAR:9015],9015,PDBC47822
+1220577,Afatinib [cytosol],R-ALL-1220577,afatinib [IUPHAR:5667],5667,PDBC00031
+9699608,alectinib [cytosol],R-ALL-9699608,alectinib [IUPHAR:7739],7739,PDBC49284
+9687693,alsterpaullone [cytosol],R-ALL-9687693,alsterpaullone [IUPHAR:5925],5925,PDBC48949
+1217507,17-DMAG [cytosol],R-ALL-1217507,alvespimycin [IUPHAR:9828],9828,PDBC47798
+2672379,amiloride [extracellular region],R-ALL-2672379,amiloride [IUPHAR:2421],2421,PDBC47841
+9669719,axitinib [cytosol],R-ALL-9669719,axitinib [IUPHAR:5659],5659,PDBC00021
+2038886,AZD4547 [cytosol],R-ALL-2038886,AZD4547 [IUPHAR:7707],7707,PDBC49131
+9714299,beclometasone [cytosol],R-ALL-9714299,beclometasone [IUPHAR:7059],7059,PDBC47866
+9679789,belinostat [nucleoplasm],R-ALL-9679789,belinostat [IUPHAR:7496],7496,PDBC43882
+9714305,betamethasone [cytosol],R-ALL-9714305,betamethasone [IUPHAR:7061],7061,PDBC47883
+9610994,betaxolol [extracellular region],R-ALL-9610994,betaxolol [IUPHAR:549],549,PDBC47884
+9660774,budesonide [cytosol],R-ALL-9660774,budesonide [IUPHAR:7434],7434,PDBC47895
+2399771,BKM120 [cytosol],R-ALL-2399771,buparlisib [IUPHAR:7878],7878,PDBC49425
+9669718,cabozantinib [cytosol],R-ALL-9669718,cabozantinib [IUPHAR:5887],5887,PDBC49172
+1227677,Canertinib [cytosol],R-ALL-1227677,canertinib [IUPHAR:5675],5675,PDBC49021
+9614832,captopril [extracellular region],R-ALL-9614832,captopril [IUPHAR:5158],5158,PDBC47905
+2023377,AZ 2171 [cytosol],R-ALL-2023377,cediranib [IUPHAR:5664],5664,PDBC49212
+9695413,cefazolin [extracellular region],R-ALL-9695413,cefazolin [IUPHAR:10935],10935,PDBC47916
+9695400,cefoxitin [extracellular region],R-ALL-9695400,cefoxitin [IUPHAR:10937],10937,PDBC47923
+9695388,cefuroxime [extracellular region],R-ALL-9695388,cefuroxime [IUPHAR:10900],10900,PDBC47926
+9716723,celecoxib [cytosol],R-ALL-9716723,celecoxib [IUPHAR:2892],2892,PDBC47735
+9687650,CHIR-99021 [cytosol],R-ALL-9687650,CHIR-99021 [IUPHAR:8014],8014,PDBC00077
+9678941,CQ [cytosol],R-ALL-9678941,chloroquine [IUPHAR:5535],5535,PDBC47936
+9683477,CQ [endocytic vesicle lumen],R-ALL-9683477,chloroquine [IUPHAR:5535],5535,PDBC47936
+9687974,CQ [endoplasmic reticulum lumen],R-ALL-9687974,chloroquine [IUPHAR:5535],5535,PDBC47936
+9690591,CQ [extracellular region],R-ALL-9690591,chloroquine [IUPHAR:5535],5535,PDBC47936
+9648300,chlorpromazine [cytosol],R-ALL-9648300,chlorpromazine [IUPHAR:83],83,PDBC47788
+9657563,Cl-1040 [cytosol],R-ALL-9657563,CI-1040 [IUPHAR:5676],5676,PDBC00015
+446602,CIM [cytosol],R-ALL-446602,cimetidine [IUPHAR:1231],1231,PDBC47943
+446609,CIM [extracellular region],R-ALL-446609,cimetidine [IUPHAR:1231],1231,PDBC47943
+9695530,clofazimine [endocytic vesicle lumen],R-ALL-9695530,clofazimine [IUPHAR:9184],9184,PDBC47957
+9657527,cobimetinib [cytosol],R-ALL-9657527,cobimetinib [IUPHAR:7626],7626,PDBC47461
+9659877,colchicine [cytosol],R-ALL-9659877,colchicine [IUPHAR:2367],2367,PDBC00187
+9678963,cortisol [cytosol],R-ALL-9678963,cortisol [IUPHAR:2868],2868,PDBC48108
+9649889,CP-724714 [cytosol],R-ALL-9649889,CP-724714 [IUPHAR:7883],7883,PDBC49295
+6802252,dabrafenib mesylate [cytosol],R-ALL-6802252,dabrafenib [IUPHAR:6494],6494,PDBC49229
+2399744,BEZ235 [cytosol],R-ALL-2399744,dactolisib [IUPHAR:7950],7950,PDBC00047
+9669723,dasatinib [cytosol],R-ALL-9669723,dasatinib [IUPHAR:5678],5678,PDBC00119
+9710463,Decitabine triphosphate [nucleoplasm],R-ALL-9710463,decitabine [IUPHAR:6805],6805,PDBC48506
+9660917,DEXA [cytosol],R-ALL-9660917,dexamethasone [IUPHAR:2768],2768,PDBC00704
+39703,DEXM [endoplasmic reticulum lumen],R-ALL-39703,dextromethorphan [IUPHAR:6953],6953,PDBC47992
+9679830,DEXM [cytosol],R-ALL-9679830,dextromethorphan [IUPHAR:6953],6953,PDBC47992
+9035047,dicumarol [cytosol],R-ALL-9035047,dicumarol [IUPHAR:6808],6808,PDBC47997
+9684074,digoxin [extracellular region],R-ALL-9684074,digoxin [IUPHAR:4726],4726,PDBC48004
+9693326,Disulfiram [cytosol],R-ALL-9693326,disulfiram [IUPHAR:7168],7168,PDBC01175
+9611671,dobutamine [extracellular region],R-ALL-9611671,dobutamine [IUPHAR:535],535,PDBC48020
+1839035,dovitinib [cytosol],R-ALL-1839035,dovitinib [IUPHAR:5962],5962,PDBC00146
+9617400,doxazosin [extracellular region],R-ALL-9617400,doxazosin [IUPHAR:7170],7170,PDBC48023
+9716725,etodolac [cytosol],R-ALL-9716725,etodolac [IUPHAR:7185],7185,PDBC48051
+9680406,fedratinib [nucleoplasm],R-ALL-9680406,fedratinib [IUPHAR:5716],5716,PDBC47536
+9678808,fingolimod [extracellular region],R-ALL-9678808,fingolimod [IUPHAR:2407],2407,PDBC49049
+9714292,fluocinolone acetonide [cytosol],R-ALL-9714292,fluocinolone acetonide [IUPHAR:7077],7077,PDBC03077
+9714308,fluocinonide [cytosol],R-ALL-9714308,fluocinonide [IUPHAR:7078],7078,PDBC48071
+9714288,fluorometholone [cytosol],R-ALL-9714288,fluorometholone [IUPHAR:7079],7079,PDBC48072
+9679783,fluvoxamine [cytosol],R-ALL-9679783,fluvoxamine [IUPHAR:7189],7189,PDBC48079
+9635055,galanthamine [extracellular region],R-ALL-9635055,galantamine [IUPHAR:6693],6693,PDBC48471
+1169429,Gefitinib [cytosol],R-ALL-1169429,gefitinib [IUPHAR:4941],4941,PDBC00010
+1217505,Geldanamycin [cytosol],R-ALL-1217505,geldanamycin [IUPHAR:9829],9829,PDBC03896
+9687679,GSK-3beta inhibitor II [cytosol],R-ALL-9687679,GSK-3beta inhibitor II [IUPHAR:5978],5978,PDBC49448
+9687667,GSK-3beta inhibitor VIII [cytosol],R-ALL-9687667,GSK-3beta inhibitor VIII [IUPHAR:5979],5979,PDBC48951
+2399768,GSK1059615 [cytosol],R-ALL-2399768,GSK1059615 [IUPHAR:9826],9826,PDBC00154
+9678901,ibrutinib [cytosol],R-ALL-9678901,ibrutinib [IUPHAR:6912],6912,PDBC49190
+9635195,Ifenprodil [extracellular region],R-ALL-9635195,ifenprodil [IUPHAR:5472],5472,PDBC48112
+9659761,imatinib [cytosol],R-ALL-9659761,imatinib [IUPHAR:5687],5687,PDBC00112
+9611925,isoprenaline [extracellular region],R-ALL-9611925,isoprenaline [IUPHAR:536],536,PDBC48795
+9687654,kenpaullone [cytosol],R-ALL-9687654,kenpaullone [IUPHAR:6000],6000,PDBC24134
+9699411,KW-2449 [cytosol],R-ALL-9699411,KW-2449 [IUPHAR:5691],5691,PDBC49139
+9611007,labetalol [extracellular region],R-ALL-9611007,labetalol [IUPHAR:7207],7207,PDBC48140
+1216521,Lapatinib [cytosol],R-ALL-1216521,lapatinib [IUPHAR:5692],5692,PDBC00066
+9681174,lenalidomide [cytosol],R-ALL-9681174,lenalidomide [IUPHAR:7331],7331,PDBC00020
+2023393,lenvatinib [cytosol],R-ALL-2023393,lenvatinib [IUPHAR:7426],7426,PDBC49040
+9695703,lestaurtinib [cytosol],R-ALL-9695703,lestaurtinib [IUPHAR:5672],5672,PDBC00024
+9610992,levobunolol [extracellular region],R-ALL-9610992,levobunolol [IUPHAR:570],570,PDBC48146
+9702979,linifanib [cytosol],R-ALL-9702979,linifanib [IUPHAR:5657],5657,PDBC49020
+9615293,losartan [extracellular region],R-ALL-9615293,losartan [IUPHAR:590],590,PDBC47675
+2399739,LY294002 [cytosol],R-ALL-2399739,LY 294002 [IUPHAR:6004],6004,PDBC47743
+2077524,masitinib [cytosol],R-ALL-2077524,masitinib [IUPHAR:5656],5656,PDBC49022
+9695421,quinacrine [extracellular region],R-ALL-9695421,mepacrine [IUPHAR:10172],10172,PDBC48337
+9625937,methoxamine [extracellular region],R-ALL-9625937,methoxamine [IUPHAR:483],483,PDBC48193
+9714285,methylprednisolone [cytosol],R-ALL-9714285,methylprednisolone [IUPHAR:7088],7088,PDBC48197
+9608434,metoprolol [extracellular region],R-ALL-9608434,metoprolol [IUPHAR:553],553,PDBC48200
+9714309,mometasone [cytosol],R-ALL-9714309,mometasone [IUPHAR:9029],9029,PDBC48215
+9678847,mycophenolic acid [cytosol],R-ALL-9678847,mycophenolic acid [IUPHAR:6832],6832,PDBC48222
+9695383,mycophenolic acid [extracellular region],R-ALL-9695383,mycophenolic acid [IUPHAR:6832],6832,PDBC48222
+9610982,nadolol [extracellular region],R-ALL-9610982,nadolol [IUPHAR:554],554,PDBC48224
+1216527,neratinib [cytosol],R-ALL-1216527,neratinib [IUPHAR:5686],5686,PDBC47696
+9669716,nilotinib [cytosol],R-ALL-9669716,nilotinib [IUPHAR:5697],5697,PDBC00013
+9616923,nintedanib [cytosol],R-ALL-9616923,nintedanib [IUPHAR:5936],5936,PDBC49035
+9699607,NVP-TAE684 [cytosol],R-ALL-9699607,NVP-TAE684 [IUPHAR:5714],5714,PDBC00113
+9649872,Osimertinib [cytosol],R-ALL-9649872,osimertinib [IUPHAR:7719],7719,PDBC49462
+9684082,ouabain [extracellular region],R-ALL-9684082,ouabain [IUPHAR:4826],4826,PDBC48535
+9626110,oxymetazoline [extracellular region],R-ALL-9626110,oxymetazoline [IUPHAR:124],124,PDBC48271
+9679810,panobinostat [nucleoplasm],R-ALL-9679810,panobinostat [IUPHAR:7489],7489,PDBC00144
+9657553,PD 0325901 [cytosol],R-ALL-9657553,PD 0325901 [IUPHAR:7935],7935,PDBC00051
+2038919,PD173074 [cytosol],R-ALL-2038919,PD173074 [IUPHAR:5037],5037,PDBC00042
+1216524,Pelitinib [cytosol],R-ALL-1216524,pelitinib [IUPHAR:7644],7644,PDBC49282
+9616958,perifosine [cytosol],R-ALL-9616958,perifosine [IUPHAR:7424],7424,PDBC00159
+9035044,phenindione [cytosol],R-ALL-9035044,phenindione [IUPHAR:6838],6838,PDBC48287
+9635029,physostigmine [extracellular region],R-ALL-9635029,physostigmine [IUPHAR:6598],6598,PDBC48661
+2399804,GDC0941 [cytosol],R-ALL-2399804,pictilisib [IUPHAR:5682],5682,PDBC00048
+9611674,pindolol [extracellular region],R-ALL-9611674,pindolol [IUPHAR:91],91,PDBC48296
+6802250,PLX-4720 [cytosol],R-ALL-6802250,PLX-4720 [IUPHAR:5703],5703,PDBC00033
+9669717,ponatinib [cytosol],R-ALL-9669717,ponatinib [IUPHAR:5890],5890,PDBC00078
+9679746,ponatinib [extracellular region],R-ALL-9679746,ponatinib [IUPHAR:5890],5890,PDBC00078
+9618318,practolol [extracellular region],R-ALL-9618318,practolol [IUPHAR:555],555,PDBC48589
+9617379,prazosin [extracellular region],R-ALL-9617379,prazosin [IUPHAR:503],503,PDBC48307
+9714297,prednisolone [cytosol],R-ALL-9714297,prednisolone [IUPHAR:2866],2866,PDBC47773
+9660765,prednisone [cytosol],R-ALL-9660765,prednisone [IUPHAR:7096],7096,PDBC48308
+9608432,propranolol [extracellular region],R-ALL-9608432,propranolol [IUPHAR:564],564,PDBC48326
+9612158,quinidine [extracellular region],R-ALL-9612158,quinidine [IUPHAR:2342],2342,PDBC48339
+9690594,quinidine [cytosol],R-ALL-9690594,quinidine [IUPHAR:2342],2342,PDBC48339
+9674318,quizartinib [cytosol],R-ALL-9674318,quizartinib [IUPHAR:5658],5658,PDBC49048
+9619007,ramipril [endoplasmic reticulum lumen],R-ALL-9619007,ramipril [IUPHAR:6339],6339,PDBC48341
+9657517,refametinib [cytosol],R-ALL-9657517,refametinib [IUPHAR:7942],7942,PDBC00014
+9657514,regorafenib [cytosol],R-ALL-9657514,regorafenib [IUPHAR:5891],5891,PDBC49036
+9695389,resveratrol [extracellular region],R-ALL-9695389,resveratrol [IUPHAR:8741],8741,PDBC47810
+9680963,ribavirin [cytosol],R-ALL-9680963,ribavirin [IUPHAR:6842],6842,PDBC48347
+9639432,rifampicin [cytosol],R-ALL-9639432,rifampicin [IUPHAR:2765],2765,PDBC48350
+9695545,rifampicin [endocytic vesicle lumen],R-ALL-9695545,rifampicin [IUPHAR:2765],2765,PDBC48350
+9716716,rofecoxib [cytosol],R-ALL-9716716,rofecoxib [IUPHAR:2893],2893,PDBC47757
+9679799,romidepsin [nucleoplasm],R-ALL-9679799,romidepsin [IUPHAR:7006],7006,PDBC49349
+9678786,ruxolitinib [cytosol],R-ALL-9678786,ruxolitinib [IUPHAR:5688],5688,PDBC49045
+9649894,Sapitinib [cytosol],R-ALL-9649894,sapitinib [IUPHAR:7717],7717,PDBC49500
+9687662,SB 216763 [cytosol],R-ALL-9687662,SB 216763 [IUPHAR:8015],8015,PDBC00025
+9657543,SCH772984 [cytosol],R-ALL-9657543,SCH772984 [IUPHAR:8056],8056,PDBC49476
+9657511,selumetinib [cytosol],R-ALL-9657511,selumetinib [IUPHAR:5665],5665,PDBC00053
+9699412,semaxanib [cytosol],R-ALL-9699412,semaxanib [IUPHAR:5056],5056,PDBC36031
+9678687,sirolimus [cytosol],R-ALL-9678687,sirolimus [IUPHAR:6031],6031,PDBC00109
+9657029,sorafenib [cytosol],R-ALL-9657029,sorafenib [IUPHAR:5711],5711,PDBC00110
+9610985,sotalol [extracellular region],R-ALL-9610985,sotalol [IUPHAR:7297],7297,PDBC48363
+9669720,sunitinib [cytosol],R-ALL-9669720,sunitinib [IUPHAR:5713],5713,PDBC00118
+9635024,tacrine [extracellular region],R-ALL-9635024,tacrine [IUPHAR:6687],6687,PDBC48393
+9678991,tacrolimus [cytosol],R-ALL-9678991,tacrolimus [IUPHAR:6784],6784,PDBC47522
+9657539,TAK-580 [cytosol],R-ALL-9657539,TAK-580 [IUPHAR:9977],9977,PDBC49220
+9702985,tamatinib [cytosol],R-ALL-9702985,tamatinib [IUPHAR:5706],5706,PDBC47557
+9615288,telmisartan [extracellular region],R-ALL-9615288,telmisartan [IUPHAR:592],592,PDBC47411
+9617372,terazosin [extracellular region],R-ALL-9617372,terazosin [IUPHAR:7302],7302,PDBC48395
+9681254,thalidomide [cytosol],R-ALL-9681254,thalidomide [IUPHAR:7327],7327,PDBC47774
+9679095,thioguanine [cytosol],R-ALL-9679095,thioguanine [IUPHAR:6845],6845,PDBC00185
+9695419,ticarcillin [extracellular region],R-ALL-9695419,ticarcillin [IUPHAR:10928],10928,PDBC48410
+9611258,ticlopidine [extracellular region],R-ALL-9611258,ticlopidine [IUPHAR:7307],7307,PDBC48411
+9647938,tipifarnib [cytosol],R-ALL-9647938,tipifarnib [IUPHAR:8025],8025,PDBC00106
+9653120,trametinib [cytosol],R-ALL-9653120,trametinib [IUPHAR:6495],6495,PDBC00150
+9679094,triamcinolone [cytosol],R-ALL-9679094,triamcinolone [IUPHAR:2870],2870,PDBC48427
+9687684,TWS119 [cytosol],R-ALL-9687684,TWS119 [IUPHAR:5980],5980,PDBC49481
+9657506,ulixertinib [cytosol],R-ALL-9657506,ulixertinib [IUPHAR:9210],9210,PDBC49482
+9716713,valdecoxib [cytosol],R-ALL-9716713,valdecoxib [IUPHAR:2894],2894,PDBC47539
+1216528,vandetanib [cytosol],R-ALL-1216528,vandetanib [IUPHAR:5717],5717,PDBC00148
+6802253,vemurafenib [cytosol],R-ALL-6802253,vemurafenib [IUPHAR:5893],5893,PDBC47426
+9679755,vorinostat [nucleoplasm],R-ALL-9679755,vorinostat [IUPHAR:6852],6852,PDBC00012
+2399863,XL765 [cytosol],R-ALL-2399863,voxtalisib [IUPHAR:7964],7964,PDBC49127
+9657533,VTX-11e [cytosol],R-ALL-9657533,VTX-11e [IUPHAR:9375],9375,PDBC49250
+2399848,wortmannin [cytosol],R-ALL-2399848,wortmannin [IUPHAR:6060],6060,PDBC47769
+1227674,WZ4002 [cytosol],R-ALL-1227674,WZ4002 [IUPHAR:9176],9176,PDBC49206
+9611688,xamoterol [extracellular region],R-ALL-9611688,xamoterol [IUPHAR:538],538,PDBC48800
+9620457,lificiguat [cytosol],R-ALL-9620457,YC-1 [IUPHAR:5291],5291,PDBC44174
+
