@@ -1,13 +1,13 @@
 library(stringr)
 
 # Script to generate Gencode.annotation.RData file (features_gene, features_transcript and tx2gene dataframes) from Gencode gtf files.
-# Used to generate Gencode.v40.annotation.RData in https://github.com/BHKLAB-Pachyderm/Annotations.git
-# The script should work with gencode.v19.annotation.gtf (GRCh37), but have not been tried yet. 
+# Used to generate Gencode.v40.annotation.RData and Gencode.v19.annotation.RData in https://github.com/BHKLAB-Pachyderm/Annotations.git
 # gencode.v40.annotation.gtf (GRCh38) obtained from https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_40/gencode.v40.annotation.gtf.gz
+# gencode.v19.annotation.gtf (GRCh37) obtained from https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_19/gencode.v19.annotation.gtf.gz
 
-work_dir <- ""
-gtf_filename <- "gencode.v40.annotation.gtf"
-rdata_filename <- "Gencode.v40.annotation.RData"
+work_dir <- "~/Documents/PredictIO/curation/gene_annotation"
+gtf_filename <- "gencode.v19.annotation.gtf"
+rdata_filename <- "Gencode.v19.annotation.RData"
 
 get_features_df <- function(gtf_df, feature_name, features_colnames){
   features_df <- gtf_df[gtf_df$V3 == feature_name, ]
